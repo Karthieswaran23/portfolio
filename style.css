@@ -1,0 +1,27 @@
+body{
+    font-family: arial;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header{
+    background-color: black;
+    color: white;
+    padding: 20px;
+
+}
+section{
+    padding: 30px;
+}
+.skills ul{
+    list-style: inline-block;
+    padding: 0;
+}
+
+.skills li{
+    display: inline-block;
+    margin: 10px;
+    background:lightgrey;
+    padding: 10px;
+}
